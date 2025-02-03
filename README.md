@@ -7,6 +7,9 @@
   It returns an array with two elements: the current state value and a function to update that state.
   <br />
   In this project, we use <code>useState</code> to manage a counter value, and by clicking buttons, we increase or decrease the value, which updates the UI accordingly.
+
+  <p> Link demo : <code> https://maniexie.github.io/Counter-App-03feb-react/ </code> </p>
+  <p> Link demo :  https://maniexie.github.io/Counter-App-03feb-react/</p>
 </p>
 
 ---
